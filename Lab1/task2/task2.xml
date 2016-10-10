@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="./template.xsl"?>
+<data>
+  <product>
+    <name>Диван Лукас-12 </name>
+    <img>http://www.meblium.com.ua/images/product/d/i/min/w_meblium_240_240-divan_lukas_neo_late_neo_shokolad1_204e06c78504227fe13dd88c543e884d.jpg</img>
+    <sizes>Размеры (мм): 1900х850x960</sizes>
+    <price>3545 грн</price>
+  </product>
+  <product>
+    <name>Ортопедический диван Джаз-86</name>
+    <img>http://www.meblium.com.ua/images/product/min/w_meblium_240_240-divan_jazz_lonetta_angliya_max_869bb280ac0b2ccbdb5a04cf1e92b6ab.jpg</img>
+    <sizes>Размеры (мм): 2050х1100x1000</sizes>
+    <price>4127 грн</price>
+  </product>
+  <product>
+    <name>Диван Омега 1,20-42</name>
+    <img>http://www.meblium.com.ua/images/product/d/i/min/w_meblium_240_240-divan_omega120_travel_grafit_mira_bd199c7cdae35e43b60f2b0614caf032.jpg</img>
+    <sizes>Размеры (мм): 1250х1060x910</sizes>
+    <price>5622 грн</price>
+  </product>
+  <product>
+    <name>Диван Карина 1,20 на пруж. блоке-42</name>
+    <img>http://www.meblium.com.ua/images/product/k/a/min/w_meblium_240_240-karina_120_arben_nais_ivory_7119a1a069d7fe69c91ca87502d8c13c.jpg</img>
+    <sizes>Размеры (мм): 1900х820x650</sizes>
+    <price>5489 грн</price>
+  </product>
+  <product>
+    <name>Диван-книжка бока ДСП-84</name>
+    <img>http://www.meblium.com.ua/images/product/G/l/min/w_meblium_240_240-Glavnaya_cb36c1e25c7a1089d5b4958adde18906.JPG</img>
+    <sizes>Размеры (мм): 1900х900x900</sizes>
+    <price>2348 грн</price>
+  </product>
+  <product>
+    <name>Диван Бонус-84</name>
+    <img>http://www.meblium.com.ua/images/product/G/l/min/w_meblium_240_240-Glavnaya_364183a87ded57f14bb483862bb569f0.jpg</img>
+    <sizes>Размеры (мм): 2050х900x900</sizes>
+    <price>2784 грн</price>
+  </product>
+  <product>
+    <name>Диван Триумф 2-12</name>
+    <img>http://www.meblium.com.ua/images/product/d/i/min/240_240-divan_triumf2_neo_crem_unico_krem1445903692.jpg</img>
+    <sizes>Размеры (мм): 1900х850x1090</sizes>
+    <price>3904 грн</price>
+  </product>
+  <product>
+    <name>Диван ЭШ 135-12</name>
+    <img>http://www.meblium.com.ua/images/product/e/s/min/w_meblium_240_240-esh_135_mono_112_2e8bdd6fe000442f696876fdaa2858db.jpg</img>
+    <sizes>Размеры (мм): 1650х1050x980</sizes>
+    <price>4070 грн</price>
+  </product>
+  <product>
+    <name>Софа Карина 1,40 на пруж. блоке-42</name>
+    <img>http://www.meblium.com.ua/images/product/d/i/min/240_240-divan_karina_bruno623_6241445901056.jpg</img>
+    <sizes>Размеры (мм): 1900х830x760</sizes>
+    <price>4269 грн</price>
+  </product>
+  <product>
+    <name>Диван Виктория-42</name>
+    <img>http://www.meblium.com.ua/images/product/d/i/min/w_meblium_240_240-divan_viktoria_luchiya_829_bukle_0021445900724.jpg</img>
+    <sizes>Размеры (мм): 2300х780x740</sizes>
+    <price>4816 грн</price>
+  </product>
+  <product>
+    <name>Диван Бьюти (нов)-42</name>
+    <img>http://www.meblium.com.ua/images/product/b/j/min/240_240-bjuti_luchia_624_072_6241445900510.jpg</img>
+    <sizes>Размеры (мм): 2500х950x910</sizes>
+    <price>6182 грн</price>
+  </product>
+  <product>
+    <name>Диван Хвыля-42</name>
+    <img>http://www.meblium.com.ua/images/product/h/v/min/w_meblium_240_240-hvulya_div_lido_max_16b8c56a1cc789b92487afe6de8ddfde.jpg</img>
+    <sizes>Размеры (мм): 1900х780x810</sizes>
+    <price>4703 грн</price>
+  </product>
+  <product>
+    <name>Диван Фортуна-89</name>
+    <img>http://www.meblium.com.ua/images/product/f/o/min/w_meblium_240_240-fortuna_cvetu_345a6632f7dc8978c05910bb2d7cacdd.jpg</img>
+    <sizes>Размеры (мм): 1980х900x740</sizes>
+    <price>4650 грн</price>
+  </product>
+  <product>
+    <name>Софа Адель 140-42</name>
+    <img>http://www.meblium.com.ua/images/product/a/d/min/w_meblium_240_240-adel5_25_12_20141445897311.jpg</img>
+    <sizes>Размеры (мм): 2320х910x730</sizes>
+    <price>4847 грн</price>
+  </product>
+  <product>
+    <name>Софа Карина с быльцами 120-42</name>
+    <img>http://www.meblium.com.ua/images/product/d/i/min/240_240-divan_karina_s_podlokotnikami_tc661_evita1445896992.jpg</img>
+    <sizes>Размеры (мм): 2000х800x720</sizes>
+    <price>3986 грн</price>
+  </product>
+  <product>
+    <name>Софа Адель 120-42</name>
+    <img>http://www.meblium.com.ua/images/product/d/i/min/240_240-divan_adel_120_delayt_02_luchiya_5491445904405.jpg</img>
+    <sizes>Размеры (мм): 2320х780x650</sizes>
+    <price>4510 грн</price>
+  </product>
+  <product>
+    <name>Диван Марта 1,20-42</name>
+    <img>http://www.meblium.com.ua/images/product/d/i/min/w_meblium_240_240-divan_marta120_filippo_velur_bezh_3f92f157fc4b2d4dcbd9b7c0055355f4.jpg</img>
+    <sizes>Размеры (мм): 1500х1060x920</sizes>
+    <price>4688 грн</price>
+  </product>
+  <product>
+    <name>Софа Мая с быльцами 1.40-42</name>
+    <img>http://www.meblium.com.ua/images/product/m/a/min/240_240-maja_s_bilcami_luchia547+090_311ecf5b9772117966afb8078cd46f3c.jpg</img>
+    <sizes>Размеры (мм): 2000х880x740</sizes>
+    <price>5426 грн</price>
+  </product>
+  <product>
+    <name>Диван Великолепный-28 </name>
+    <img>http://www.meblium.com.ua/images/product/d/i/min/w_meblium_240_240-divan_velikolepnuy_shotlandka_6d69a48f25b5e1233a73246bbdaab0df.jpg</img>
+    <sizes>Размеры (мм): 2170х980x880</sizes>
+    <price>5595 грн</price>
+  </product>
+  <product>
+    <name>Софа Цезарь накладки ДСП-42</name>
+    <img>http://www.meblium.com.ua/images/product/s/o/min/240_240-sofa_cezar_delayt_02_bukle_0161445898205.jpg</img>
+    <sizes>Размеры (мм): 2700х940x840</sizes>
+    <price>6052 грн</price>
+  </product>
+</data>

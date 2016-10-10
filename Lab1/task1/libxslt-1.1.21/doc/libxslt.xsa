@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE xsa PUBLIC "-//LM Garshol//DTD XML Software Autoupdate 1.0//EN//XML" "http://www.garshol.priv.no/download/xsa/xsa.dtd">
+<xsa>
+  <vendor>
+    <name>Daniel Veillard</name>
+    <email>daniel@veillard.com</email>
+    <url>http://veillard.com/</url>
+  </vendor>
+  <product id="libxslt">
+    <name>libxslt</name>
+    <version>1.1.20</version>
+    <last-release> Jan 17 2007</last-release>
+    <info-url>http://xmlsoft.org/XSLT/</info-url>
+    <changes>   - Portability fixes: strict aliasing fix (Marcus Meissner), BSD portability
+      patches (Roland Illig)
+   - Bug fixes: Result Value Tree handling fix (William Brack), function
+      parameters fix (William), uninitialized variable (Kjartan Maraas),
+      empty text node handling (William), plugin support and test fixes (William),
+      fragment support fixes (William)
+   - Improvements: python stylesheet compare and transform context
+      access (Nic Ferrier), EXSLT string replace support (Joel Reed),
+      xsltproc better low level error handling (Mike Hommey and William)
+
+</changes>
+  </product>
+</xsa>
