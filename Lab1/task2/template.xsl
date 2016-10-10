@@ -18,7 +18,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <tr>
         <td><xsl:value-of select="name"/></td>
         <td><xsl:value-of select="price"/></td>
-        <td><xsl:value-of select="img"/></td>
+        <td><img><xsl:attribute name="src">
+            <xsl:value-of select="img"/>
+        </xsl:attribute></img></td>
         <td><xsl:value-of select="sizes"/></td>
     </tr>
     </xsl:for-each>
